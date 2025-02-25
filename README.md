@@ -27,7 +27,13 @@ This Power BI dashboard analyzes NYC taxi data, providing insights on:
 1. Download the `.pbix` file.  
 2. Open it in Power BI Desktop.  
 3. Connect to your NYC taxi dataset (if applicable).  
-4. Explore the interactive visualizations!  
+4. Explore the interactive visualizations!
+
+## Files Included
+- The dataset and Power BI dashboard are hosted on Google Drive due to file size limitations.
+🔗 Download Dashboard & Dataset
+
+
 
 ---
 **Created by [Ahmed Mohamed Farouk]** 🏆  
