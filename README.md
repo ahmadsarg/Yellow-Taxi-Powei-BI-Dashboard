@@ -1,4 +1,3 @@
-# Yellow-Taxi-Powei-BI-Dashboard
 # NYC Taxi Data Dashboard 🚖📊  
 
 ## Overview  
